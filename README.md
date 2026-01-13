@@ -1,3 +1,5 @@
+> This project is no longer maintained, feel free to fork the project.
+
 # OneTimePassword
 ### TOTP and HOTP one-time passwords for iOS
 
